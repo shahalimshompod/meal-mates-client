@@ -10,14 +10,12 @@ MealMates is a web application designed to connect food donors with those in nee
 
 ---
 
-## Screenshot
-
-(Include a clean screenshot of the application interface here.)
+## 📸 Screenshot
+![Meal Mates Screenshot](https://i.ibb.co.com/gZ0hk5K8/image.png)
 
 ---
 
 ## Technologies Used
-
 ### Frontend
 
 - **React** (JavaScript library for UI development)
