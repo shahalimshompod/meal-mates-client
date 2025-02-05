@@ -1,0 +1,49 @@
+{
+    "featuredFoodStories": [
+        {
+            "id": 1,
+            "title": "A Meal That Connected Two Strangers",
+            "image": "https://i.ibb.co.com/YWLz6pc/ND-Angel-food-cake-lgtw-super-Jumbo.jpg",
+            "author": "John Doe",
+            "date": "2024-12-22",
+            "shortDescription": "How a warm homemade lasagna brought two strangers together in the spirit of sharing.",
+            "fullStoryLink": "https://example.com/stories/meal-connection"
+        },
+        {
+            "id": 2,
+            "title": "Saving Food, Saving Lives",
+            "image": "https://i.ibb.co.com/hHz8R6w/best-local-food-singapore-okmg-shutterstock.jpg",
+            "author": "Jane Smith",
+            "date": "2024-12-20",
+            "shortDescription": "An inspiring story of a community coming together to save surplus food for the homeless.",
+            "fullStoryLink": "https://example.com/stories/food-savings"
+        },
+        {
+            "id": 3,
+            "title": "The Power of a Simple Soup",
+            "image": "https://i.ibb.co.com/Tg5KLD9/pro-sid-ali-food-photography-trends-2-e5830f8b14d841ecab4f62b476497935.jpg",
+            "author": "Emily Johnson",
+            "date": "2024-12-18",
+            "shortDescription": "Discover how a simple bowl of soup brought smiles to a local shelter.",
+            "fullStoryLink": "https://example.com/stories/soup-power"
+        },
+        {
+            "id": 4,
+            "title": "A Festival of Sharing",
+            "image": "https://i.ibb.co.com/ccbFnhW/Banana-Pudding-022-2000-6a7f3ba402044e5488b429a7141097fa.jpg",
+            "author": "Chris Lee",
+            "date": "2024-12-15",
+            "shortDescription": "Celebrating the joy of sharing food during the holiday season.",
+            "fullStoryLink": "https://example.com/stories/festival-sharing"
+        },
+        {
+            "id": 5,
+            "title": "From Waste to Feast",
+            "image": "https://i.ibb.co.com/RD3dQKp/file-20201109-22-lqiq5c.jpg",
+            "author": "Sara Khan",
+            "date": "2024-12-10",
+            "shortDescription": "How leftover ingredients were turned into a delicious feast for a local charity.",
+            "fullStoryLink": "https://example.com/stories/waste-to-feast"
+        }
+    ]
+}

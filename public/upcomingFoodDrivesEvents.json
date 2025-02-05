@@ -1,0 +1,55 @@
+{
+    "upcomingEvents": [
+      {
+        "id": 1,
+        "eventName": "Holiday Food Drive",
+        "image": "https://i.ibb.co.com/hZXPqJW/holiday-food-drive.png",
+        "date": "2024-12-25",
+        "time": "10:00 AM - 4:00 PM",
+        "location": "Community Center, Main Street",
+        "description": "Join us in spreading holiday cheer by donating non-perishable food items for those in need.",
+        "registrationLink": "https://example.com/events/holiday-food-drive"
+      },
+      {
+        "id": 2,
+        "eventName": "Soup Kitchen Volunteer Day",
+        "image": "https://i.ibb.co.com/RPXxZ97/360-F-982445218-ng-Y7-OSW9nuleh-Xo-Rd-Awq-Og9-N7-CNo1vap.jpg",
+        "date": "2024-12-30",
+        "time": "9:00 AM - 3:00 PM",
+        "location": "Shelter Home, Elm Avenue",
+        "description": "Volunteer with us to prepare and serve warm meals for the homeless community.",
+        "registrationLink": "https://example.com/events/soup-kitchen-volunteer"
+      },
+      {
+        "id": 3,
+        "eventName": "Food Donation Camp",
+        "image": "https://i.ibb.co.com/VD0GnDs/1109-food-tnd-0.jpg",
+        "date": "2025-01-05",
+        "time": "8:00 AM - 2:00 PM",
+        "location": "City Park, Maple Road",
+        "description": "A camp to collect surplus food and distribute it to local shelters. And they have it directly.",
+        "registrationLink": "https://example.com/events/food-donation-camp"
+      },
+      {
+        "id": 4,
+        "eventName": "New Year Community Feast",
+        "image": "https://i.ibb.co.com/Rp43HYS/community-feast-chinese-new-year-431161-47662.jpg",
+        "date": "2025-01-01",
+        "time": "5:00 PM - 9:00 PM",
+        "location": "Downtown Plaza, Riverfront",
+        "description": "Celebrate the New Year with a feast organized by the community, for the community.",
+        "registrationLink": "https://example.com/events/new-year-feast"
+      },
+      {
+        "id": 5,
+        "eventName": "Food Sustainability Workshop",
+        "image": "https://i.ibb.co.com/87XpsVC/Shareable-2024-GFPR-1920x1080-ch1.jpg",
+        "date": "2025-01-15",
+        "time": "11:00 AM - 1:00 PM",
+        "location": "Green Hall, Pine Street",
+        "description": "Learn about sustainable food practices and how to minimize waste at home.",
+        "registrationLink": "https://example.com/events/food-sustainability-workshop"
+      }
+    ]
+  }
+  
