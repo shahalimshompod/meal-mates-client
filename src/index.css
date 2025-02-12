@@ -2,20 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-
-.slick-slide > div{
+.slick-slide > div {
   margin: 0 10px;
 }
-
 
 /* fonts here */
 /* tan headline */
 @font-face {
-    font-family: 'TanHeadline';
-    src: url('assets/fonts/TANHEADLINE-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-  }
-
-
-  
+  font-family: "TanHeadline";
+  src: url("assets/fonts/TANHEADLINE-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

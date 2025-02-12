@@ -1,6 +1,8 @@
 import React from "react";
 import logo from '../../assets/logo/logo.png'
 import { Link } from "react-router-dom";
+import { IoLocationSharp } from "react-icons/io5";
+import { FcExpired } from "react-icons/fc";
 
 const FoodCard = ({ foodData, isThreeColumn }) => {
     const { foodName, foodImage, foodQuantity, pickupLocation, expiredDateTime, additionalNotes, foodStatus, donatorName, donatorImage, _id } = foodData
@@ -22,18 +24,18 @@ const FoodCard = ({ foodData, isThreeColumn }) => {
                         {foodName}
                     </h3>
 
-                    <p className={`text-sm font-semibold bg-green-200 ${isThreeColumn ? 'w-1/3' : 'w-1/2'} text-center rounded-xl`}>Status: {foodStatus}</p>
+                    <p className={`text-sm font-semibold bg-green-200 ${isThreeColumn ? 'w-1/3' : 'w-1/2'} text-center rounded-xl`}>{foodStatus}</p>
                 </div>
 
                 <p className="text-sm text-gray-600 mb-2">
-                    <strong>Quantity:</strong> {foodQuantity}
+                    <strong>Quantity:</strong> <span className="font-bold text-xl">{foodQuantity}</span>
                 </p>
-                <p className="text-sm text-gray-600 mb-2">
-                    <strong>Pickup Location:</strong> {pickupLocation}
+                <p className="text-sm text-gray-600 mb-2 flex items-center gap-2">
+                    <strong><span><IoLocationSharp size={20} /></span></strong> <span>{pickupLocation}</span>
                 </p>
-                <p className="text-sm text-gray-600 mb-2">
-                    <strong>Expires On:</strong>{" "}
-                    {new Date(expiredDateTime).toLocaleString()}
+                <p className="text-sm text-gray-600 mb-2 flex items-center gap-2">
+                    <strong><FcExpired size={20} /></strong>{" "}
+                    <span>{new Date(expiredDateTime).toLocaleString()}</span>
                 </p>
                 <p className="text-sm text-gray-600 mb-2">
                     <strong>Notes:</strong> {additionalNotes}
